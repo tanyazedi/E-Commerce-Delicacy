@@ -25,8 +25,10 @@ Delicacy is an e-commerce website that offers a wide range of food and grocery i
 - CSS
 - JavaScript
 
-##Demo
+## Demo
+
  - [Delicacy](https://tanyazedi.github.io/E-Commerce-Delicacy/)
+
 ## Installation
 
 To run this project locally, follow these steps:
